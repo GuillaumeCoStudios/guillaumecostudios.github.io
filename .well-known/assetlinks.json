@@ -1,0 +1,13 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.guillaumeandco.ultimategamebuzzer",
+      "sha256_cert_fingerprints": [
+        "E1:C1:2D:1C:F2:0E:B5:CD:80:BE:9D:B2:0D:4D:0C:00:D9:AF:B3:0E:2D:97:19:62:59:0A:8B:16:12:CF:D8:4B",
+        "3C:3A:33:82:55:D9:63:12:DD:08:3E:1A:37:6A:7D:43:2E:A1:17:8C:FC:5A:A6:71:8A:87:A0:78:F5:2E:B5:AE"
+      ]
+    }
+  }
+]
